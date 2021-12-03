@@ -105,5 +105,4 @@
 
 </html>
 
-<?php
-echo "Maiko";
+<h2>qqqq</h2>
